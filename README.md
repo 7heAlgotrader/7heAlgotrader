@@ -1,4 +1,4 @@
-- 👋 hi, I’m @7heAlgotrader the first
+- 👋 hi, I’m @ artsytrades
 - 👀 i’m a data science enthusiast, interested in automation, machine learning and artificial intelligence 
 - 🌱 i’m currently learning python
 - 💞️ i’m looking to collaborate on projects about algorithmic trading, basically using order flow, market structure and liquidity
